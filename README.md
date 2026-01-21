@@ -6,4 +6,4 @@ You are welcome to download and use these files to contact EU representatives re
 Currently, this repository includes information on MEPs from the following countries:
 - France (`france.xlsx`)
 - Italy (`italy.xlsx`)
-- Spain ('spain.xlsx`)
+- Spain (`spain.xlsx`)
