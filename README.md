@@ -9,4 +9,4 @@ Currently, this repository includes information on MEPs from the following count
 - Spain (`spain.xlsx`)
 
 This repository also contains contact information of the EU council members and foriegn affair minsters of EU countries.
-- eu_council_and_foreign_ministers.xlsx
+- `eu_council_and_foreign_ministers.xlsx`
