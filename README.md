@@ -15,5 +15,7 @@ Please contact the EU council members and the ministers of foriegn affairs of th
 
 ## Disclosure
 This information is published solely to facilitate lawful, individual communication between citizens and official representatives of countries for the purpose of requesting humanitarian assistance.
+
 It must not be used for commercial purposes, bulk messaging, spam, or any form of automated outreach.
+
 If any listed authority requests removal or correction of information, it will be promptly addressed.
